@@ -1,0 +1,152 @@
+[
+    {
+        "name": "en_US",
+        "valueData": "3174",
+        "end_time": "2023-05-29",
+        "lan": "English(US)"
+    },
+    {
+        "name": "en_GB",
+        "valueData": "1315",
+        "end_time": "2023-05-29",
+        "lan": "English(GB)"
+    },
+    {
+        "name": "vi_VN",
+        "valueData": "348",
+        "end_time": "2023-05-29",
+        "lan": "Vietnamese"
+    },
+    {
+        "name": "pt_BR",
+        "valueData": "196",
+        "end_time": "2023-05-29",
+        "lan": "Portuguese"
+    },
+    {
+        "name": "ar_AR",
+        "valueData": "150",
+        "end_time": "2023-05-29",
+        "lan": "Arabic"
+    },
+    {
+        "name": "bn_IN",
+        "valueData": "109",
+        "end_time": "2023-05-29",
+        "lan": "Bengali"
+    },
+    {
+        "name": "id_ID",
+        "valueData": "107",
+        "end_time": "2023-05-29",
+        "lan": "Indonesian"
+    },
+    {
+        "name": "zh_TW",
+        "valueData": "96",
+        "end_time": "2023-05-29",
+        "lan": "Chinese"
+    },
+    {
+        "name": "fr_FR",
+        "valueData": "94",
+        "end_time": "2023-05-29",
+        "lan": "French"
+    },
+    {
+        "name": "es_LA",
+        "valueData": "71",
+        "end_time": "2023-05-29",
+        "lan": "Spanish"
+    },
+    {
+        "name": "tl_PH",
+        "valueData": "66",
+        "end_time": "2023-05-29",
+        "lan": "Tagalog"
+    },
+    {
+        "name": "zh_CN",
+        "valueData": "43",
+        "end_time": "2023-05-29",
+        "lan": "Chinese"
+    },
+    {
+        "name": "hi_IN",
+        "valueData": "26",
+        "end_time": "2023-05-29",
+        "lan": "Hindi"
+    },
+    {
+        "name": "es_ES",
+        "valueData": "26",
+        "end_time": "2023-05-29",
+        "lan": "Spanish"
+    },
+    {
+        "name": "it_IT",
+        "valueData": "21",
+        "end_time": "2023-05-29",
+        "lan": "Italian"
+    },
+    {
+        "name": "zh_HK",
+        "valueData": "13",
+        "end_time": "2023-05-29",
+        "lan": "Chinese"
+    },
+    {
+        "name": "pt_PT",
+        "valueData": "12",
+        "end_time": "2023-05-29",
+        "lan": "Portuguese"
+    },
+    {
+        "name": "pl_PL",
+        "valueData": "11",
+        "end_time": "2023-05-29",
+        "lan": "Polish"
+    },
+    {
+        "name": "as_IN",
+        "valueData": "11",
+        "end_time": "2023-05-29",
+        "lan": "Assamese"
+    },
+    {
+        "name": "de_DE",
+        "valueData": "8",
+        "end_time": "2023-05-29",
+        "lan": "German"
+    },
+    {
+        "name": "fa_IR",
+        "valueData": "6",
+        "end_time": "2023-05-29",
+        "lan": "Persian"
+    },
+    {
+        "name": "mr_IN",
+        "valueData": "6",
+        "end_time": "2023-05-29",
+        "lan": "Marathi"
+    },
+    {
+        "name": "ro_RO",
+        "valueData": "6",
+        "end_time": "2023-05-29",
+        "lan": "Romanian"
+    },
+    {
+        "name": "ko_KR",
+        "valueData": "6",
+        "end_time": "2023-05-29",
+        "lan": "Korean"
+    },
+    {
+        "name": "nl_NL",
+        "valueData": "4",
+        "end_time": "2023-05-29",
+        "lan": "Dutch"
+    }
+]
